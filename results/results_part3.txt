@@ -1,0 +1,6 @@
+accuracy: 0.8568
+precision: 0.3930
+recall: 0.8601
+f1: 0.5395
+auc: 0.9263
+confusion_matrix: [[1133, 190], [20, 123]]
